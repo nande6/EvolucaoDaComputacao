@@ -145,7 +145,7 @@ atualmente;
 
 
 Em 1995 o crescente por jogos de computador e sua evolução meteórica faz
-nascer um novo componente: `a placa de vídeo dedicada NV-1`,
+nascer um novo componente: a placa de vídeo dedicada NV-1,
 desenvolvida pela NVIDIA.
 
 Com o desenvolvimento da tecnologia da informação, os computadores
@@ -327,6 +327,7 @@ ultrapassados com o devido estudo, criando-se ambientes milhares de vezes
 mais seguros. Dessa forma, cada vez mais a Inteligência Artificial ganha
 relevância e corpo, pois as redes neurais conseguiriam ser compreendidas e
 executadas em apenas segundos (em vez de semanas). 
+
 Sendo assim, embora esteja um pouco fora da nossa realidade no momento, é possível sim já sonhar e prever o quão importante serão os avanços no futuro.
 
 [//]: # (Referências Bibliográficas)
