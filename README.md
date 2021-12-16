@@ -241,7 +241,7 @@ principais atualizações que vieram, em velocidade alucinante e em um curto per
 tempo. Neste sentido, desenvolveu-se o computador quântico, que leva tudo isso a um
 outro patamar.
 
-### **O QUE É COMPUTAÇÃO QUÂNTICA?**
+### **O que é Computação Quântica**
 
 A tecnologia é emergente, e deve estar presente entre 2 mil a 5 mil computadores em
 todo o mundo até 2030, segundo a consultoria empresarial McKinsey. Para entender o
@@ -261,8 +261,7 @@ atualmente, pois trabalha com os qubits – ou bits quânticos. São partículas
 combinar vários “0” e “1” ou mesmo tempo. Logo, a capacidade se torna muito maior e
 as possibilidades, infinitas.
 
-### **QUAIS SÃO OS DESAFIOS DOS COMPUTADORES
-QUÂNTICOS?**
+## **Quais são os desafios dos Computadores Quânticos?**
 
 Por ser uma tecnologia recente e estar em um nível atômico, ela também possui certo
 nível de complexidade. Devido à delicadeza da natureza dos qubits, é importante que
@@ -275,7 +274,7 @@ informações importantes. Por fim, a inteligência em si é (até então) muito
 ficar em primeiro momento concentrada em agências governamentais e nas maiores
 companhias de um país.
 
-### **EMPRESAS QUE JÁ USAM A TECNOLOGIA**
+### **Empresas que já usam a tecnológia**
 
 Ao mesmo tempo que pede por estudos aprofundados e promete ser desafiadora, a
 aplicação deste tipo de conceito é maravilhosa. Há cerca de dois anos, o Google
@@ -292,7 +291,7 @@ quanto a IBM (líderes nessa área) mantêm seus chips quânticos sob cuidados d
 componentes compostos por elementos como ouro e cobre, resfriados a quase zero
 absoluto, ou seja: -273,15 ºC.
 
-### **QUAIS AS POSSIBILIDADES DA COMPUTAÇÃO QUÂNTICA?**
+### **Quais as possibilidades da Computação Quântica?**
 
 Mesmo que não seja algo palpável à realidade da maioria das empresas, e muito
 menos do consumidor final por um bom tempo, é importante conhecer a
