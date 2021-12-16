@@ -1,6 +1,6 @@
 
 # Evolução da Computação
-`Esse site tem por objetivo compartilhar um pouco da História da Computação reunida por alunos da UTFPR Pato Branco.`
+`Esse site tem por objetivo compartilhar um pouco da História da Computação reunida por alunos do curso de Engenharia da Computação da UTFPR Pato Branco.`
 
 ![](https://cdnn1.img.jp.sputniknews.com/img/643/91/6439184_0:104:1920:1184_1920x0_80_0_0_4d01a02514b2dfd405f8a20643b08c4e.jpg)
 
