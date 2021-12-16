@@ -262,7 +262,7 @@ combinar vários “0” e “1” ou mesmo tempo. Logo, a capacidade se torna m
 as possibilidades, infinitas.
 
 ## **QUAIS SÃO OS DESAFIOS DOS COMPUTADORES
-QU NTICOS?**
+QUÂNTICOS?**
 
 Por ser uma tecnologia recente e estar em um nível atômico, ela também possui certo
 nível de complexidade. Devido à delicadeza da natureza dos qubits, é importante que
