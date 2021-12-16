@@ -331,13 +331,13 @@ executadas em apenas segundos (em vez de semanas).
 Sendo assim, embora esteja um pouco fora da nossa realidade no momento, é possível sim já sonhar e prever o quão importante serão os avanços no futuro.
 
 ## Autores
-Esse algoritmo foi escrito por:
+Essa página foi desenvolvida por:
 
 | Avatar | Nome | Nickname | Email |
 | ------ | ---- | -------- | ----- |
-| ![](https://gitlab.com/uploads/-/system/user/avatar/9502407/avatar.png?width=400)  | Navinchandry Ruas | [@BananaSplatter](https://gitlab.com/BananaSplatter) | [nruas@alunos.utfpr.edu.br](mailto:nruas@alunos.utfpr.edu.br)
-| ![](https://gitlab.com/uploads/-/system/user/avatar/10256709/avatar.png?width=400)  | Matias Garcia Castilho | [@MatiasGarciaCastilho](https://gitlab.com/MatiasGarciaCastilho) | [matiascastilho@alunos.utfpr.edu.br](mailto:matiascastilho@alunos.utfpr.edu.br)
-| ![](https://gitlab.com/uploads/-/system/user/avatar/9975701/avatar.png?width=400)  | Hernandes Nascimento | [@nande6](https://gitlab.com/nande6) | [hernandesj@alunos.utfpr.edu.br](mailto:hernandesj@alunos.utfpr.edu.br)
+| ![](https://gitlab.com/uploads/-/system/user/avatar/9502407/avatar.png?width=400)  | Navinchandry Ruas | [@nruas](https://github.com/nruas) | [nruas@alunos.utfpr.edu.br](mailto:nruas@alunos.utfpr.edu.br)
+| ![](https://gitlab.com/uploads/-/system/user/avatar/10256709/avatar.png?width=400)  | Matias Garcia Castilho | [@MatiasCastilh0](https://github.com/MatiasCastilh0) | [matiascastilho@alunos.utfpr.edu.br](mailto:matiascastilho@alunos.utfpr.edu.br)
+| ![](https://gitlab.com/uploads/-/system/user/avatar/9975701/avatar.png?width=400)  | Hernandes Nascimento | [@nande6](https://github.com/nande6) | [hernandesj@alunos.utfpr.edu.br](mailto:hernandesj@alunos.utfpr.edu.br)
 
 
 [//]: # (Referências Bibliográficas)
