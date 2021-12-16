@@ -261,7 +261,7 @@ atualmente, pois trabalha com os qubits – ou bits quânticos. São partículas
 combinar vários “0” e “1” ou mesmo tempo. Logo, a capacidade se torna muito maior e
 as possibilidades, infinitas.
 
-## **QUAIS SÃO OS DESAFIOS DOS COMPUTADORES
+### **QUAIS SÃO OS DESAFIOS DOS COMPUTADORES
 QUÂNTICOS?**
 
 Por ser uma tecnologia recente e estar em um nível atômico, ela também possui certo
