@@ -1,8 +1,8 @@
-#História da Computação
+# História da Computação
 
-##Surgimento das Calculadores Mecânicas
+## Surgimento das Calculadores Mecânicas
 
-###Relógio Calculador
+### Relógio Calculador
 
 A primeira calculadora mecânica foi inventada pelo professor alemão Wilhelm
 Schickard em 1623. Essa calculadora era capaz de somar, subtrair, dividir e
@@ -13,7 +13,7 @@ mas na década de 60, foram encontradas as anotações do projeto dessa
 calculadora, possibilitando sua reprodução, atribuindo a Wilhelm Schickard a
 invenção da calculadora.
 
-###Pascaline
+### Pascaline
 
 A Pascaline foi uma calculadora mecânica construída pelo matemático Frances
 Blaise Pascal em 1642. A Pascaline em seu interior tinha como elemento
@@ -31,7 +31,7 @@ mais Pascalines e vender no mercado. Ele construiu 50 versões dessa
 calculadora, mas ela não teve muita aceitação no mercado.
 
  
-###Primeiros Computadores
+### Primeiros Computadores
 
 A Máquina de Anticítera é o computador analógico e planetário mais antigo que
 se conhece, criado no século I a.C. na Grécia. Era um calendário mecânico,
