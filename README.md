@@ -148,22 +148,22 @@ sem fio para comunicação. Os clientes ou os nós possuem mobilidade e
 capacidade de fornecer computação a qualquer momento, em qualquer lugar.
 Abaixo estão alguns exemplos onde a computação móvel está em uso.
 
--Sistemas de entrega on-line associados à verificação de cartão de crédito;
+- Sistemas de entrega on-line associados à verificação de cartão de crédito;
 
--Serviços de táxi / táxi operados via smartphones e aplicativos móveis;
+- Serviços de táxi / táxi operados via smartphones e aplicativos móveis;
 
--Serviços móveis com reconhecimento de local usados para transmitir
+- Serviços móveis com reconhecimento de local usados para transmitir
 condições meteorológicas e de estrada;
 
--Aplicativos de mídia social e acesso a e-mail via smartphones;
+- Aplicativos de mídia social e acesso a e-mail via smartphones;
 
 
--Dispositivos portáteis inteligentes que são usados para medir e registrar
+- Dispositivos portáteis inteligentes que são usados para medir e registrar
 condições médicas / de saúde dos indivíduos;
 
--Principais componentes de um sistema de computação móvel;
+- Principais componentes de um sistema de computação móvel;
 
--Um sistema de computação móvel consiste nos seguintes componentes;
+- Um sistema de computação móvel consiste nos seguintes componentes;
 
 **Hardware Móvel**
 
