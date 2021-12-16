@@ -241,7 +241,7 @@ principais atualizações que vieram, em velocidade alucinante e em um curto per
 tempo. Neste sentido, desenvolveu-se o computador quântico, que leva tudo isso a um
 outro patamar.
 
-### **O QUE É COMPUTAÇÃO QU NTICA?**
+### **O QUE É COMPUTAÇÃO QUÂNTICA?**
 
 A tecnologia é emergente, e deve estar presente entre 2 mil a 5 mil computadores em
 todo o mundo até 2030, segundo a consultoria empresarial McKinsey. Para entender o
