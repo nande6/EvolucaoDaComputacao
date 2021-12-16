@@ -47,6 +47,7 @@ da Antiguidade, mas uma modalidade similar);
 
 ![](https://zap.aeiou.pt/wp-content/uploads/2017/05/e4e5a1584550fdab3b4c53f4df27e328.jpg)
 
+
 No século XIX Conceito do primeiro computador foi criado por Charles Babbage
 com a **Máquina Diferencial** e a **Máquina Analítica**, entretanto, permaneceu
 como conceito visto que não foi completada;
@@ -55,16 +56,19 @@ de máquina com inteligência artificial;
 
 ![](https://i1.wp.com/fabiusmaximus.com/wp-content/uploads/2013/10/20131023-babbage.jpg)
 
+
 Em 1937 o primeiro computador nasce nos Estados Unidos. O matemático
 George Stibitz cria o **Model K** na mesa de sua cozinha e a máquina é capaz de
 realizar somas usando duas lâmpadas e um relés telefônico;
 
 ![](https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photo/8815885/image/35672a384cbd63a72474070cf63f6abf)
 
+
 Em 1940 durante a Segunda Guerra Mundial, Turing usa essa base para criar o
 **Victory**, decifrando códigos criptografados da comunicação militar alemã;
 
 ![](https://qph.fs.quoracdn.net/main-qimg-23bd37b633c0cc0bf43a563d23d67545-c)
+
 
 Ao mesmo tempo, nos EUA, George Stibitz cria o primeiro computador
 controlado remotamente, O **Model 1**, mais robusto que o anterior e controlado
@@ -72,12 +76,14 @@ pelo antigo Telex;
 
 ![](https://i.pinimg.com/originals/e1/ca/9c/e1ca9c11d108adf6a29a9db2e557e0a2.jpg)
 
+
 Em 1945 o primeiro computador eletrônico é construído. Chamado de **ENIAC**,
 ele funcionaria por dez anos e sua capacidade de cálculo era tão avançada que,
 nesse período, ele havia feito mais cálculos que toda a humanidade ao longo da
 história;
 
 ![](https://ukazse.net/wp-content/uploads/2018/01/ot-0021.jpg)
+
 
 Em 1950 o **NPL Pilot Ace** é construído e considerado o primeiro computador
 com múltiplos propósitos, ou seja, era possível programa-lo para cálculos
@@ -90,7 +96,9 @@ diferentes, inseridos por um programador;
 Desenvolvido por John Blankenbaker em 1971 o **Kenbak-1** é considerado um
 dos primeiros computadores pessoais, mas seu fracasso comercial levou a
 empresa que o desenvolveu a fechar as portas;
+
 ![](https://portalrbn.com.br/storage/2021/10/Kenbak-1-400x240.jpg)
+
 
 Em 1976 começou uma disputa que ia perdurar por décadas. O computador
 pessoal **Apple-1** chegou ao mercado, mas ainda era um produto voltado para
@@ -98,11 +106,13 @@ entusiastas;
 
 ![](https://cdn.futura-sciences.com/buildsv6/images/wide1920/8/b/c/8bcc553be5_50011835_apple-1-flickr-02.jpg)
 
+
 Em 1977 com apenas um ano do lançamento de seu antecessor, o **Apple-II** foi
 laçado e se tornou um dos computadores pessoais mais populares justamente
 pela capacidade de receber upgrades;
 
 ![](https://discord.com/channels/@me/900178347978547290/921134803934400534)
+
 
 Em 1981 o primeiro computador portátil(laptop) foi lançado e se chamava
 **Osborne-1**, mas ele também não teve sucesso comercial e a empresa que o
@@ -110,11 +120,13 @@ criou deixou de existir.
 
 ![](https://cdna.artstation.com/p/assets/images/images/019/910/694/large/oleg-stepanov-osborne-1-artstation-01.jpg?1565546752)
 
+
 Ainda nesse ano, a IBM tomou o mercado com a chegada do **IBM 5150**, o famoso
 **IBM PC*. Mais simples que o **Apple-II**, ele era um computador que todos podiam
 usar.
 
 ![](https://www.drippingspringsnews.com/sites/drippingspringsnews.etypegoogle9.com/files/field/image/running_with_moe_20200416_photo.jpg)
+
 
 O sucesso do **IBM PC** tinha explicação: o sistema operacional **PC-DOS* que no
 futuro viria a se o famoso **MS-DOS**, criado pela Microsoft;
@@ -124,11 +136,13 @@ mercado;
 
 ![](https://img.ibxk.com.br/2014/1/materias/2953396632491114-t640.jpg)
 
+
 Em 1985 o **TRS-80 Model 200** da Radio Shack, conhecido como **Tandy 200**, foi
 o primeiro computador portátil com o formato de notebook que conhecemos
 atualmente;
 
 ![](https://www.old-computers.com/museum/photos/tandy_model200_1.jpg)
+
 
 Em 1995 o crescente por jogos de computador e sua evolução meteórica faz
 nascer um novo componente: `a placa de vídeo dedicada NV-1`,
@@ -262,7 +276,7 @@ atualmente, pois trabalha com os qubits – ou bits quânticos. São partículas
 combinar vários “0” e “1” ou mesmo tempo. Logo, a capacidade se torna muito maior e
 as possibilidades, infinitas.
 
-## **Quais são os desafios dos Computadores Quânticos?**
+### **Quais são os desafios dos Computadores Quânticos?**
 
 Por ser uma tecnologia recente e estar em um nível atômico, ela também possui certo
 nível de complexidade. Devido à delicadeza da natureza dos qubits, é importante que
@@ -312,9 +326,8 @@ computação quântica. Ainda, os desafios de criptografia podem ser
 ultrapassados com o devido estudo, criando-se ambientes milhares de vezes
 mais seguros. Dessa forma, cada vez mais a Inteligência Artificial ganha
 relevância e corpo, pois as redes neurais conseguiriam ser compreendidas e
-executadas em apenas segundos (em vez de semanas). Sendo assim, embora
-esteja um pouco fora da nossa realidade no momento, é possível sim já sonhar
-e prever o quão importante serão os avanços no futuro.
+executadas em apenas segundos (em vez de semanas). 
+Sendo assim, embora esteja um pouco fora da nossa realidade no momento, é possível sim já sonhar e prever o quão importante serão os avanços no futuro.
 
 [//]: # (Referências Bibliográficas)
 
