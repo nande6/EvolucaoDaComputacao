@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## História da Computação
 
 You can use the [editor on GitHub](https://github.com/nande6/nande6.github.io/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
 
