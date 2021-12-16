@@ -292,7 +292,7 @@ quanto a IBM (líderes nessa área) mantêm seus chips quânticos sob cuidados d
 componentes compostos por elementos como ouro e cobre, resfriados a quase zero
 absoluto, ou seja: -273,15 ºC.
 
-### **QUAIS AS POSSIBILIDADES DA COMPUTAÇÃO QU NTICA?**
+### **QUAIS AS POSSIBILIDADES DA COMPUTAÇÃO QUÂNTICA?**
 
 Mesmo que não seja algo palpável à realidade da maioria das empresas, e muito
 menos do consumidor final por um bom tempo, é importante conhecer a
