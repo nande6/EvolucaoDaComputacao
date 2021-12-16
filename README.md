@@ -1,7 +1,9 @@
-História da Computação
+#História da Computação
 
-Surgimento das Calculadores Mecânicas
-Relógio Calculador
+##Surgimento das Calculadores Mecânicas
+
+###Relógio Calculador
+
 A primeira calculadora mecânica foi inventada pelo professor alemão Wilhelm
 Schickard em 1623. Essa calculadora era capaz de somar, subtrair, dividir e
 multiplicar números até 6 dígitos, indicando o resultado através de um toque de
@@ -10,7 +12,9 @@ exemplar dessa calculadora (ainda incompleto) foi destruído em um incêndio,
 mas na década de 60, foram encontradas as anotações do projeto dessa
 calculadora, possibilitando sua reprodução, atribuindo a Wilhelm Schickard a
 invenção da calculadora.
-Pascaline
+
+###Pascaline
+
 A Pascaline foi uma calculadora mecânica construída pelo matemático Frances
 Blaise Pascal em 1642. A Pascaline em seu interior tinha como elemento
 essencial uma roda dentada construída com 10 "dentes". Cada "dente"
@@ -27,46 +31,58 @@ mais Pascalines e vender no mercado. Ele construiu 50 versões dessa
 calculadora, mas ela não teve muita aceitação no mercado.
 
  
-Primeiros Computadores
+###Primeiros Computadores
+
 A Máquina de Anticítera é o computador analógico e planetário mais antigo que
 se conhece, criado no século I a.C. na Grécia. Era um calendário mecânico,
 capaz de prever as posições dos corpos celestes conhecidos na época, bem
 como eclipses e o início dos Jogos Atléticos (que não eram os Jogos Olímpicos
 da Antiguidade, mas uma modalidade similar);
+
 No século XIX Conceito do primeiro computador foi criado por Charles Babbage
 com a Máquina Diferencial e a Máquina Analítica, entretanto, permaneceu
 como conceito visto que não foi completada;
 Em 1936 na Inglaterra, Alan Turing cria uma tese revelando o primeiro conceito
 de máquina com inteligência artificial;
+
 Em 1937 o primeiro computador nasce nos Estados Unidos. O matemático
 George Stibitz cria o Model K na mesa de sua cozinha e a máquina é capaz de
 realizar somas usando duas lâmpadas e um relés telefônico;
+
 Em 1940 durante a Segunda Guerra Mundial, Turing usa essa base para criar o
 Victory, decifrando códigos criptografados da comunicação militar alemã;
+
 Ao mesmo tempo, nos EUA, George Stibitz cria o primeiro computador
 controlado remotamente, O Model 1, mais robusto que o anterior e controlado
 pelo antigo Telex;
+
 Em 1945 o primeiro computador eletrônico é construído. Chamado de ENIAC,
 ele funcionaria por dez anos e sua capacidade de cálculo era tão avançada que,
 nesse período, ele havia feito mais cálculos que toda a humanidade ao longo da
 história;
+
 Em 1950 o NPL Pilot Ace é construído e considerado o primeiro computador
 com múltiplos propósitos, ou seja, era possível programa-lo para cálculos
-diferentes, inseridos por um programador.
-Evolução dos Computadores Pessoais e sua
-Interconexão
+diferentes, inseridos por um programador;
+
+###Evolução dos Computadores Pessoais e sua Interconexão
+
 Desenvolvido por John Blankenbaker em 1971 o Kenbak-1 é considerado um
 dos primeiros computadores pessoais, mas seu fracasso comercial levou a
 empresa que o desenvolveu a fechar as portas;
+
 Em 1976 começou uma disputa que ia perdurar por décadas. O computador
 pessoal Apple-1 chegou ao mercado, mas ainda era um produto voltado para
 entusiastas;
+
 Em 1977 com apenas um ano do lançamento de seu antecessor, o Apple-II foi
 laçado e se tornou um dos computadores pessoais mais populares justamente
 pela capacidade de receber upgrades;
+
 Em 1981 o primeiro computador portátil(laptop) foi lançado e se chamava
 Osborne-1, mas ele também não teve sucesso comercial e a empresa que o
 criou deixou de existir.
+
 Ainda nesse ano, a IBM tomou o mercado com a chegada do IBM 5150, o famoso
 IBM PC. Mais simples que o Apple-II, ele era um computador que todos podiam
 usar.
